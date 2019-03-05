@@ -135,7 +135,7 @@ Math.ceil(num);</pre>
 }</pre>
 没想到遇到了坑，结果elementScrollLeft总是0，调试结果如下：
 
-![](/images/task0002_1.png)
+![](https://diygod.me/images/task0002_1.png)
 
 好坑啊，说好的如果有文档声明（即网页第一句的docType）的情况下，document.compatMode 的值等于 "CSS1compat"，标准浏览器是只认识documentElement.scrollTop的啊。
 
@@ -199,7 +199,7 @@ var childs = function (element) {
 
 另外调试过程中发现的诡异现象：
 
-![](/images/task0002_2.png)
+![](https://diygod.me/images/task0002_2.png)
 
 解释下：递归调用时返回值allchilds是正确的，但返回到上一层时并没有加到上一层的allchilds中。
 
@@ -314,7 +314,7 @@ JavaScript出于安全方面的考虑，不允许跨域调用其他页面的对�
 
 **15\. JavaScript月份多出一** （参考 [JS 中 new Date 怎么就多一个月了？](http://www.cftea.com/c/2010/06/4KJ75KPG9NBFEIA1.asp) [JavaScript——搞甘特图使用 Date 对象时遇到的问题](http://www.cnblogs.com/liuning8023/archive/2012/12/15/2819728.html)）
 
-![](/images/task0002_4.png)
+![](https://diygod.me/images/task0002_4.png)
 
 明明设置的时5月，结果却是6月。
 
@@ -326,7 +326,7 @@ JavaScript出于安全方面的考虑，不允许跨域调用其他页面的对�
 
 **15\. 计时器不会阻塞代码执行**
 
-如图![](/images/task0002_5.png)
+如图![](https://diygod.me/images/task0002_5.png)
 
 我的本意是执行完 a() 再输出b，没想到b先输出了，从这里也可以推测出，计时器并不会阻塞后面语句的执行。
 

@@ -13,13 +13,13 @@ categories: 分享境
 
 ### Time Machine
 
-![](/images/nas1.jpg)
+![](https://diygod.me/images/nas1.jpg)
 
 之前用 Time Machine 做备份要一直连着移动硬盘，很麻烦而且容易忘记，经常是 Mac 提醒我已经 10 多天没备份了才想起来插上移动硬盘备份一下，有 NAS 之后可以实现无线和远程备份，在任何地方都可以让 Mac 每小时自动备份到家里的 NAS 里
 
 ### BT 下载
 
-![](/images/nas2.jpg)
+![](https://diygod.me/images/nas2.jpg)
 
 使用 RSS 订阅喜欢的番剧或美剧，有更新可以自动下载，或者在公司~~摸鱼~~的时候看到一部喜欢的电影，可以远程登录到家里的群晖，添加 BT 任务，晚上回家就可以直接看了
 
@@ -29,11 +29,11 @@ categories: 分享境
 
 比如我在电脑上把樱岛麻衣的照片存到 NAS 里，打开手机可以随时看
 
-![](/images/nas3.jpg)
+![](https://diygod.me/images/nas3.jpg)
 
 再比如我下载了一部日剧，根据我心情的不同，我有可能想坐在桌子前用电脑看，也有可能想躺在床上用 iPad 看
 
-![](/images/nas4.png)
+![](https://diygod.me/images/nas4.png)
 
 而在有 NAS 之前，我必须把 iPad 用数据线连到电脑上，打开难用的要死的 iTunes，然后把视频拷贝到 iPad 里才能看
 
@@ -49,7 +49,7 @@ categories: 分享境
 
 家里的电信宽带已经有了公网 IP，设置下端口转发就行了，以为很简单，没想到是个大坑
 
-![](/images/nas5.jpg)
+![](https://diygod.me/images/nas5.jpg)
 
 用路由器的 DMZ 功能设置好转发之后，发现没效果，访问公网 IP 返回的是光猫的登录界面，才知道光猫和路由器不是桥接，还需要在光猫上设置转发，尝试了下发现我没有光猫的超级管理员账号，没有权限设置
 
@@ -63,32 +63,32 @@ Google 上查到了几种电信光猫的破解方法，试了都无效，凌晨4
 
 为了将动态的公网 IP 映射到我的域名上
 
-![](/images/nas6.jpg)
+![](https://diygod.me/images/nas6.jpg)
 
-![](/images/nas7.jpg)
+![](https://diygod.me/images/nas7.jpg)
 
 群晖和路由器都带了 DDNS 功能，却发现都不支持 CloudXNS...只能自己动手了
 
 惊喜地发现了这个东西：https://github.com/lixuy/CloudXNS-DDNS-with-BashShell
 
-![](/images/nas8.jpg)
+![](https://diygod.me/images/nas8.jpg)
 
 利用群晖的任务计划功能 10 分钟跑一下这个脚本，实现了 CloudXNS 的 DDNS
 
 ### SSL 证书
 
-![](/images/nas9.jpg)
+![](https://diygod.me/images/nas9.jpg)
 
 群晖自带了自动从 Let's Encrypt 获取证书的功能，真香
 
 却发现群晖用的验证方式必须用 80 端口，国内根本不能用，真臭
 
-![](/images/nas10.jpg)
+![](https://diygod.me/images/nas10.jpg)
 
 也找到了解决方案：http://www.up4dev.com/2018/05/29/synology-ssl-wildcard-cert-update/
 
 同样是利用群晖的任务计划功能一个月跑一下这个脚本，解决了 SSL 证书和自动续签
 
-![](/images/nas11.jpg)
+![](https://diygod.me/images/nas11.jpg)
 
 最后实现了通过自己的域名 https://nas.diygod.me:2222 远程访问 NAS，细心的小可爱刚才已经在文章第一张图里看到了这个域名

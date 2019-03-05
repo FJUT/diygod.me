@@ -39,13 +39,13 @@ BAS 弹幕主要面向字幕君等高端玩家，可以用于字幕、特效、�
 
 弹幕通过界面设置，不需要编写代码，使用简单但功能比较局限。
 
-![](/images/bas1.jpg)
+![](https://diygod.me/images/bas1.jpg)
 
 #### mode8
 
 即代码弹幕，功能非常强大但需要编写代码，使用复杂、安全性较差，而且只支持 Flash 平台。
 
-![](/images/bas2.jpg)
+![](https://diygod.me/images/bas2.jpg)
 
 #### mode9
 
@@ -55,7 +55,7 @@ BAS 弹幕主要面向字幕君等高端玩家，可以用于字幕、特效、�
 
 跟 mode 8 相比，mode 9 简化了语法，改用声明式，使用更简单；更安全，播放器解析实现，不合法脚本不会放行，程序可控，而不是直接操作弹幕；可以跨平台。
 
-![](/images/bas3.jpg)
+![](https://diygod.me/images/bas3.jpg)
 
 ## 使用 BAS 弹幕
 
@@ -72,8 +72,8 @@ BAS 弹幕主要面向字幕君等高端玩家，可以用于字幕、特效、�
 
 ### 发送入口
 
-1. ![](/images/bas4.jpg)
-2. ![](/images/bas5.jpg)
+1. ![](https://diygod.me/images/bas4.jpg)
+2. ![](https://diygod.me/images/bas5.jpg)
 
 注意没有发送权限时入口是隐藏的，这时候可以在[试验室](https://bilibili.github.io/bas/#/playground)中进行尝试。
 

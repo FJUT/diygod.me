@@ -8,7 +8,7 @@ tags:
 permalink: 2449
 ---
 
-![](/images/postcard2.jpg)
+![](https://diygod.me/images/postcard2.jpg)
 
 ### Q: 我为什么要你的明信片？妈妈说不能随便拿陌生人的东西。
 
@@ -28,7 +28,7 @@ permalink: 2449
 
 我是一枚明信片爱好者，每去一个地方，第一件事就是买有关当地自然人文的明信片。
 
-![](/images/postcard3.jpg)
+![](https://diygod.me/images/postcard3.jpg)
 
 **但这些卡片的价值，远不止是收藏和炫耀那么简单。**
 

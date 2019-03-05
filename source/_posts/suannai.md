@@ -10,7 +10,7 @@ permalink: 2939
 
 酸奶是我家新招的猫女仆，她有一个博客：[https://suannai.cat](https://suannai.cat/)
 
-![](/images/suannai.png)<!--more-->
+![](https://diygod.me/images/suannai.png)<!--more-->
 
 Q: 你是谁？
 A: 我是酸奶，来自喵星，是个可爱的女孩子，我的铲屎官是 DIYgod，对他好点，他是我罩的。

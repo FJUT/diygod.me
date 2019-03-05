@@ -5,11 +5,11 @@ date: 2014-06-19 01:53:52
 type: "about"
 ---
 
-![](/images/about.jpg)
+![](https://diygod.me/images/about.jpg)
 
 人气网红 | 前端小萌新 | bilibili | 有猫 | 开源
 
-抓住我： [GitHub](https://github.com/DIYgod) | [Twitter](https://twitter.com/DIYgod) | [QQ 群](/images/qq-group5.jpg) | [Telegram chanel](https://t.me/awesomeDIYgod) | [更多](https://www.anotherhome.net/3163)
+抓住我： [GitHub](https://github.com/DIYgod) | [Twitter](https://twitter.com/DIYgod) | [QQ 群](https://diygod.me/images/qq-group5.jpg) | [Telegram chanel](https://t.me/awesomeDIYgod) | [更多](https://www.anotherhome.net/3163)
 
 &nbsp;
 

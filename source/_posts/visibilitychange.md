@@ -8,7 +8,7 @@ tags:
 permalink: 2153
 ---
 
-![](/images/titlehide.png)
+![](https://diygod.me/images/titlehide.png)
 
 在 [Sonic 853](http://853.bronya.net/) 看到的神奇的一幕，一颗赛艇，果断扒来水一贴
 

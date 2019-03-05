@@ -12,7 +12,7 @@ permalink: 2978
 
 比如
 
-![](/images/gugu1.jpg)
+![](https://diygod.me/images/gugu1.jpg)
 
 就像小时候偷偷在课桌间传递的小纸条一样温暖。
 
@@ -30,4 +30,4 @@ permalink: 2978
 
 以下（给我打印宪法）是错误的用法：
 
-![](/images/gugu2.jpg)
+![](https://diygod.me/images/gugu2.jpg)

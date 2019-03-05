@@ -83,7 +83,7 @@ ajaxDan(1);
 
 运行结果：536 个视频片段，15768 条弹幕
 
-![](/images/wxwlive1.jpg)
+![](https://diygod.me/images/wxwlive1.jpg)
 
 然后把弹幕对象字符串化，复制到 json 文件里。
 

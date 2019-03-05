@@ -13,7 +13,7 @@ categories: 创作集
 
 太好了！以后再也不会忘记说早安晚安了！开心！
 
-![](/images/havefun.jpg)
+![](https://diygod.me/images/havefun.jpg)
 
 脚本已经部署到服务器上了，明天早上给发小一个惊喜！
 

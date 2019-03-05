@@ -8,7 +8,7 @@ tags:
 permalink: 2920
 ---
 
-![](/images/weibo-negative.png)
+![](https://diygod.me/images/weibo-negative.png)
 
 就是这样，代码写好了，就差个女朋友了。
 
@@ -24,7 +24,7 @@ permalink: 2920
 
 消极情绪微博 RSS 配合 IFTTT 使用，具体设置如下图，条件是 RSS 出现新内容，行为是发一条微博通知（也可以改成手机通知或者邮件通知等）。
 
-![](/images/negtivewbifttt.png)
+![](https://diygod.me/images/negtivewbifttt.png)
 
 &nbsp;
 
@@ -58,7 +58,7 @@ permalink: 2920
 
 大连理工的本体库标注了超过两万词语，包括这些词语词性种类、情感类别、情感强度及极性等信息，像下面这样：
 
-![](/images/dllgemotion.png)
+![](https://diygod.me/images/dllgemotion.png)
 
 看起来很不错，就选择了这个。
 

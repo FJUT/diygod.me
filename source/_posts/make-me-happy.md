@@ -8,7 +8,7 @@ tags:
 permalink: 2505
 ---
 
-![](/images/happything.png)
+![](https://diygod.me/images/happything.png)
 
 手机满格的电量
 

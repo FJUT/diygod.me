@@ -6,7 +6,7 @@ categories: 事件簿
 第二个群也炸了，先解释下原因
 <!--more-->
 
-![](/images/qq-group4.jpg)
+![](https://diygod.me/images/qq-group4.jpg)
 
 根据“线人”和腾讯内部消息，第二个群被这个人孜孜不倦地开一堆小号“顺手”举报了 4 天，第一个群花了多长时间我就不知道了
 
@@ -24,4 +24,4 @@ categories: 事件簿
 
 不管怎样，已经通过 QQ 群认识了那么多有趣的人，很开心了
 
-![](/images/qq-group5.jpg)
+![](https://diygod.me/images/qq-group5.jpg)

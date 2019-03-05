@@ -12,11 +12,11 @@ permalink: 2954
 
 最后的效果就是当你第二次访问我的网站时只会加载大约80k 的资源（除去 AdSense 的情况下），这其中包括了所有图片和音频视频，这 80k 主要是 HTML 和我使用的 [DPlayer](https://github.com/DIYgod/DPlayer) 的 API。
 
-![](/images/sw4.jpg)
+![](https://diygod.me/images/sw4.jpg)
 
 甚至可以在断开网络时访问（剪断网线试试吧）：
 
-![](/images/sw2.jpg)
+![](https://diygod.me/images/sw2.jpg)
 
 <!--more-->当然局限性也是有的：
 
@@ -24,7 +24,7 @@ permalink: 2954
 
 兼容性不太好，[点击查看兼容性报告](http://caniuse.com/#search=service%20worker)，目前只有 Chrome Firefox Opera 和部分 Android 浏览器 支持。
 
-![](/images/sw3.jpg)
+![](https://diygod.me/images/sw3.jpg)
 
 使用方法网上有很多教程，这里不赘述了，推荐这几篇吧：
 
