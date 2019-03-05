@@ -413,7 +413,7 @@ disqus:
   enable: true
   shortname: kainy
   count: false
-  # api: https://disqus.diygod.me/api/
+  api: http://disqus.kainy.cn/api/
   apikey: VCVhJ50T10WX1yYEPzfCdqPQgiUU9RSI6WZP7XORaZcEUJeYe91Nv1C3eNq5dpPn
   admin: admin
   adminLabel: 服务生
