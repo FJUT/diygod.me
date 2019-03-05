@@ -411,11 +411,11 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: diygod-me
+  shortname: kainy
   count: false
-  api: https://disqus.diygod.me/api/
-  apikey: h403RnxQYBk2VylgLZwxodAtYOEL9bzgfhpcc8AZEU0EXn9cEWUoTwrgL3VB5tvj
-  admin: DIYgod
+  # api: https://disqus.diygod.me/api/
+  apikey: VCVhJ50T10WX1yYEPzfCdqPQgiUU9RSI6WZP7XORaZcEUJeYe91Nv1C3eNq5dpPn
+  admin: admin
   adminLabel: 服务生
 
 # Hypercomments
@@ -581,8 +581,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: Ti5mwFDXXbpWqeWdaydLNfOS-gzGzoHsz
-  app_key: rXpryRyVs5jlk2LAGGI1bfEd
+  app_id: 7ujJlqqrKX5po2kMmHM97A4k-gzGzoHsz
+  app_key: Q5M5sXAGhSkcmDkN0KWtPLvY
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
