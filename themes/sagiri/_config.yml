@@ -77,11 +77,9 @@ menu:
 
 submenu:
   抓到我:
-    GitHub: https://github.com/DIYgod
-    Twitter: https://twitter.com/DIYgod
-    QQ 群: /images/qq-group5.jpg
-    Telegram 频道: https://t.me/awesomeDIYgod
-    Telegram 群: https://t.me/prpr233
+    GitHub: https://github.com/kainy
+    Twitter: https://twitter.com/kainyguo
+    微信公众号: https://mp.weixin.qq.com/mp/qrcode?scene=10000005&size=123&__biz=MjM5ODQ2NjQyMA==&mid=2652371523&idx=1&sn=08ea8d678dd7e7a528edb0e2897153ba&send_time=
   实验室:
     RSSHub: https://docs.rsshub.app/
     DPlayer: http://dplayer.js.org/
@@ -114,11 +112,8 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/DIYgod || <i class="fa fa-fw fa-github"></i>
-  Twitter: https://twitter.com/DIYgod || <i class="fa fa-fw fa-twitter"></i>
-  QQ 群: /images/qq-group5.jpg || <i class="fa fa-fw fa-qq"></i>
-  Telegram 频道: https://t.me/awesomeDIYgod || <i class="fa fa-fw fa-telegram"></i>
-  Telegram 群: https://t.me/prpr233 || <i class="fa fa-fw fa-telegram"></i>
+  GitHub: https://github.com/Kainy || <i class="fa fa-fw fa-github"></i>
+  Twitter: https://twitter.com/KainyGuo || <i class="fa fa-fw fa-twitter"></i>
 
 social_icons:
   enable: true
@@ -853,13 +848,13 @@ header_bg: /images/header-darling4.jpg
 
 card:
   avatar: /images/card.jpg
-  name: <span style="opacity:.2;">网红</span>DIYgod
-  description: 你能抓到我么？
+  name: <span style="opacity:.2;">Hi</span>Kainy
+  description: 关♥生活，关注互联网。
 
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  since: 2/9/2014 11:30:00
+  since: 11/16/2009 20:02:00
 
   # Icon between year and copyright info.
   icon: user
