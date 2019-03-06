@@ -86,7 +86,7 @@ theme: sagiri
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:DIYgod/diygod.me.git
+  repo: git@github.com:FJUT/diygod.me.git
   branch: master
 
 search:
