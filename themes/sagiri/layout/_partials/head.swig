@@ -141,7 +141,7 @@
     since: '{{ theme.footer.since }}',
     onlineAPI: '{{ theme.online_api }}',
     site: {
-      title: '{{ theme.title }}',
+      title: "{{ theme.title }}",
       subtitle: '{{ theme.subtitle }}',
       author: '{{ theme.author }}'
     },
